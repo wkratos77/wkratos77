@@ -79,7 +79,6 @@ I’m always happy to connect with fellow developers, backend enthusiasts, or an
 ---
 
 ### 🐍 GitHub Snake
-![GitHub Snake](https://github.com/wkratos77/walidkrati/actions/workflows/snake.yml/badge.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
