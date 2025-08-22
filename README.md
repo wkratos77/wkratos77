@@ -59,7 +59,7 @@
 ![REST API](https://img.shields.io/badge/REST-API-007ACC?style=for-the-badge)
 
 **Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)(https://github.com/wkratos77)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wkratos77/)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WAMP](https://img.shields.io/badge/WAMP-FF5733?style=for-the-badge)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
