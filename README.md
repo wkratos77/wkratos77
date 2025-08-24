@@ -24,7 +24,8 @@
 - C: Programming Fundamentals (Jul 2025)  
 
 **IBM**  
-- Python for Data Science, AI & Development (Aug 2025)  
+- Python for Data Science, AI & Development (Aug 2025)
+- Developing AI Applications with Python and Flask  
 
 **Google**  
 - Google News Initiative – Information Verification (Jul 2024)  
