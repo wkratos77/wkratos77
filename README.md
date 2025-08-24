@@ -90,7 +90,7 @@ I’m always happy to connect with fellow developers, backend enthusiasts, or an
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wkratos77&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
-  <img height="180" src="https://streak-stats.demolab.com?user=wkratos77&theme=merko&date_format=j%20M%5B%20Y%5D" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=wkratos77&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
+  <img height="150" src="https://streak-stats.demolab.com?user=wkratos77&theme=merko&date_format=j%20M%5B%20Y%5D" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkratos77&layout=compact&langs_count=10&count_private=true&theme=merko" />
 </p>
