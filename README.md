@@ -88,4 +88,3 @@ I’m always happy to connect with fellow developers, backend enthusiasts, or an
 </picture>
 
 ### 📈 GitHub Stats
-![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkratos77&show_icons=true&theme=radical)
