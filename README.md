@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 📍 Based in Morocco
-- 🎓 Student at **FST Béni Mellal (USMS)** – DEUST diploma  
+- 🎓 Student at **FST (USMS)** – DEUST diploma  
 - 💡 Passionate about **backend development, APIs & scalable systems**  
 - 🔧 Currently working with **C, Python, Flask, Node.js, SQL, REST APIs**  
 - 🌱 Constantly learning, problem-solving, and optimizing  
