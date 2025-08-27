@@ -98,7 +98,6 @@ I’m always happy to connect with fellow developers, backend enthusiasts, or an
   <br/>   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkratos77&layout=compact&langs_count=8&hide_border=true&cache_seconds=7200&theme=radical" />
   <br/>    
-  <img src="https://streak-stats.demolab.com?user=wkratos77&hide_border=true&date_format=j%20M[%20Y]&mode=weekly&theme=radical" />
 </p>
 
 ---
