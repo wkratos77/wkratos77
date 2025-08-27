@@ -71,6 +71,7 @@
 
 ---
 
+
 ### 🌍 Languages  
 
 - Arabic — Native  
@@ -90,6 +91,18 @@ I’m always happy to connect with fellow developers, backend enthusiasts, or an
 
 ---
 
+##  📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wkratos77&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=7200&theme=radical" />
+  <br/>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkratos77&layout=compact&langs_count=8&hide_border=true&cache_seconds=7200&theme=radical" />
+  <br/>    
+  <img src="https://streak-stats.demolab.com?user=wkratos77&hide_border=true&date_format=j%20M[%20Y]&mode=weekly&theme=radical" />
+</p>
+
+---
+<!-- 
 ### 🐍 GitHub Snake
 
 <picture>
@@ -97,3 +110,6 @@ I’m always happy to connect with fellow developers, backend enthusiasts, or an
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+
