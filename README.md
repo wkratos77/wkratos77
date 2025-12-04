@@ -93,13 +93,12 @@ I’m always happy to connect with fellow developers, backend enthusiasts, or an
 
 ##  📊 Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wkratos77&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1300&v=2" />
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=wkratos77&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1300&v=0&theme=radical" /> -->
-  <br/>   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkratos77&layout=compact&langs_count=8&hide_border=true&cache_seconds=1300&theme=radical" />
-  <br/>    
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=wkratos77&show_icons=true&theme=radical&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkratos77&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 <!-- 
