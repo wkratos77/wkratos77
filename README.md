@@ -225,11 +225,7 @@ Adapting quickly and improving through practice.
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wkratos77/wkratos77/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wkratos77/wkratos77/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/wkratos77/wkratos77/output/github-contribution-grid-snake.svg" width="98%" />
-</picture>
+<img src="https://raw.githubusercontent.com/wkratos77/wkratos77/output/github-contribution-grid-snake-dark.svg" width="98%" />
 
 </div>
 
