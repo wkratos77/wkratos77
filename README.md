@@ -1,7 +1,54 @@
-# 👋 Hey, I'm Walid Krati  
-💻 Backend Developer in progress toward Full-Stack mastery  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,30:24283b,70:7aa2f7,100:bb9af7&height=240&section=header&text=Walid%20Krati&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=c0caf5&desc=Backend%20Developer&descAlignY=62&descSize=18" />
+</div>
+
+<div align="center">
+<br/><br/>
+
+<a href="mailto:eljadidatime@gmail.com"><img src="https://img.shields.io/badge/-Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
+<a href="https://www.linkedin.com/in/walid-krati/"><img src="https://img.shields.io/badge/-LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
+<a href="https://t.me/abushaheed_0771"><img src="https://img.shields.io/badge/-Telegram-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" /></a>
+<a href="https://github.com/wkratos77"><img src="https://img.shields.io/badge/-Follow-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" /></a>
+<a href="https://https://discord.com/users/krvt0ss"><img src="https://img.shields.io/badge/-Discord-7aa2f7?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=wkratos77&style=for-the-badge&color=7aa2f7&labelColor=1a1b27&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/wkratos77?style=for-the-badge&color=bb9af7&labelColor=1a1b27&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/Status-Opted%20to%20Hire-9ece6a?style=for-the-badge&labelColor=1a1b27" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ HERO STATS ═══════════════ -->
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wkratos77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&rank_icon=github" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://streak-stats.demolab.com?user=wkratos77&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakLabel=7aa2f7&sideNums=c0caf5&dates=565f89&sideLabels=7aa2f7&currStreakNum=bb9af7" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wkratos77&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=f7768e&area_color=7aa2f7&area=true&hide_border=true&theme=tokyo-night&custom_title=Contribution%20Activity%20·%20Last%2031%20Days" width="98%" />
+
+</div>
 
 ---
+
+
+</div>
+
 
 ### 🚀 About Me
 - 📍 Based in Morocco
@@ -82,27 +129,12 @@
 
 ---
 
-### 📬 Let's Connect
+### 🐍 Contribution Snake
 
-I’m always happy to connect with fellow developers, backend enthusiasts, or anyone passionate about building scalable digital solutions. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-krati/) 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/li0771s)
-
----
-
-##  📊 Github Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wkratos77&show_icons=true&theme=radical&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkratos77&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+<img src="https://raw.githubusercontent.com/wkratos77/wkratos77/output/github-contribution-grid-snake.svg" width="98%" />
 
 </div>
 
----
-<!-- 
-### 🐍 GitHub Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -110,5 +142,47 @@ I’m always happy to connect with fellow developers, backend enthusiasts, or an
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+---
+
+### 📬 Let's Connect
+<div align="center">
+
+## 🌐 Let's Connect
+
+<sub>Always open to interesting conversations · MCP · Agentic AI · Backend architecture</sub>
+
+<br/><br/>
+
+<a href="mailto:eljadidatime@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Кратос-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://www.linkedin.com/in/walid-krati/"">
+  <img src="https://img.shields.io/badge/LinkedIn-Walid%20Krati-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://github.com/wkratos77">
+  <img src="https://img.shields.io/badge/GitHub-Follow-bb9af7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://t.me/abushaheed_0771">
+  <img src="https://img.shields.io/badge/Telegram-Abushaheed_0771-9ece6a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" />
+</a>
+<a href="https://discord.com/users/krvt0ss">
+  <img src="https://img.shields.io/badge/Discord-krvt0ss-9ece6a?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+> Made with ❤️, lots of ☕, and a touch of 💀 existential dread
+> © 2017—present · Walid · Still alive... barely
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,30:bb9af7,70:24283b,100:1a1b27&height=120&section=footer&animation=twinkling" />
+
+</div>
 
 
+---
