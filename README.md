@@ -263,10 +263,9 @@ Adapting quickly and improving through practice.
 
 ```text
 > Made with ❤️, lots of ☕, and countless debugging sessions
-> © 2020—present · Walid Krati
+> © 2020—present · Walid Krati · Still alive... barely
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,30:bb9af7,70:24283b,100:1a1b27&height=120&section=footer&animation=twinkling" />
 
 </div>
-
