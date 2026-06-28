@@ -134,7 +134,7 @@ t_wkrati me = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=c,python,java,bash&theme=dark&perline=3" />
 
 </td>
 
